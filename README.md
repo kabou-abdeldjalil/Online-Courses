@@ -19,37 +19,37 @@ The programs included in each folder follow the course content and were created 
 
 The certificates of completion for each course are available below:
 
-### C Programming – Udemy
+#### C Programming – Udemy
 <p align="center">
   <img src="Ûdemy_C_Programming.jpg" width="700">
 </p>
 
-### Computer Vision Onramp – MathWorks
+#### Computer Vision Onramp – MathWorks
 <p align="center">
   <img src="Certificates/Certificate_Computer_Vision.jpg" width="700">
 </p>
 
-### Deep Learning Onramp – MathWorks
+#### Deep Learning Onramp – MathWorks
 <p align="center">
   <img src="Certificates/Certificate_Deep_learning_Onramp.jpg" width="700">
 </p>
 
-### Image Processing Onramp – MathWorks
+#### Image Processing Onramp – MathWorks
 <p align="center">
   <img src="Certificates/Certificate_Image_Processing_Onramp.jpg" width="700">
 </p>
 
-### Machine Learning Onramp – MathWorks
+#### Machine Learning Onramp – MathWorks
 <p align="center">
   <img src="Certificates/Certificate_Machine_Learnig_Onramp.jpg" width="700">
 </p>
 
-### MATLAB Onramp – MathWorks
+#### MATLAB Onramp – MathWorks
 <p align="center">
   <img src="Certificates/Certificate_MATLAB_onramp.jpg" width="700">
 </p>
 
-### Signal Processing Onramp – MathWorks
+#### Signal Processing Onramp – MathWorks
 <p align="center">
   <img src="Certificates/Certificate_Signal_Processing_Onramp.jpg" width="700">
 </p>
