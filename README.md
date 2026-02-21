@@ -20,4 +20,4 @@ The programs included in each folder follow the course content and were created 
 The certificates of completion for each course are available below:
 
 - C Programming – Udemy  
-  📄 [View Certificate](Certificates/Udemy_C_Programming.pdf)
+  📄 <p align="center"> <img src="Ûdemy_C_Programming.jpg" width="600"> </p>
