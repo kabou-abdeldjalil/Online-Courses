@@ -21,7 +21,7 @@ The certificates of completion for each course are available below:
 
 ### C Programming – Udemy
 <p align="center">
-  <img src="Certificates/Udemy_C_Programming.jpg" width="700">
+  <img src="Ûdemy_C_Programming.jpg" width="700">
 </p>
 
 ### Computer Vision Onramp – MathWorks
